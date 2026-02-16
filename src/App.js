@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>🔥 DevOps Dashboard Demo 🔥</h1>
+        <h1>🔥 DevOps Dashboard Demo Project 🔥</h1>
         <p>CI/CD Pipeline is up and running with Jenkins!</p>
 
         <div style={{ marginTop: '20px', textAlign: 'left' }}>
